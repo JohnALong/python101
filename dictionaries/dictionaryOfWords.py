@@ -2,7 +2,7 @@
 Create a dictionary with key value pairs to
 represent words (key) and its definition (value)
 """
-word_definitions = dict()
+word_definitions = {}
 
 """
 Add several more words and their definitions
